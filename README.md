@@ -1,1 +1,1 @@
-# tailwind-react-laravel-mysql-
+# tailwind-react-laravel-mysql
